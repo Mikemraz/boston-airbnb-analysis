@@ -1,6 +1,6 @@
 # Boston AirBNB analysis
 This repository manages to get some useful and interesting insights into Boston AirBNB data.  
-data [source]{https://www.kaggle.com/airbnb/boston}  
+data [source](https://www.kaggle.com/airbnb/boston)
 
 ## Business questions being answered
 1. What is the price distribution of AirBNB homes?
@@ -26,7 +26,7 @@ most data wrangling work is put on "listing.csv". Missing values are interpolate
 wordclouds are adopted to better visualize the results.
 
 ## Blog
-If you want to know more about my work. please go to [my blog]{https://medium.com/@jlm3448179892009/get-to-understand-airbnb-at-boston-c254a4b50a26}
+If you want to know more about my work. please go to [my blog](https://medium.com/@jlm3448179892009/get-to-understand-airbnb-at-boston-c254a4b50a26)
 
 ## acknowledgement
 Thanks to teams from Udacity's Data Scientist Nanodegree who have made my learning path fascinating.
