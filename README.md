@@ -1,4 +1,4 @@
-# Boston AirBNB analysis
+﻿# Boston AirBNB analysis
 This repository manages to get some useful and interesting insights into Boston AirBNB data.  
 data [source](https://www.kaggle.com/airbnb/boston)
 
@@ -27,9 +27,7 @@ It has more than 80 columns and tells everything about each AirBNB house. Like r
 It collected every verbal comments tenants made online, with columns {"listing_id","id","date","reviewer_id","erviewer_name","commnets"}.  
 
 ## General analysis process
-As there is no modelling work in this analysis. All efforts are to data cleannign and exploration to answer business questions raised above. And  
-most data wrangling work is put on "listing.csv". Missing values are interpolated or dropped based on my judgements. histogram, heatmaps, and  
-wordclouds are adopted to better visualize the results.
+As there is no modelling work in this analysis. All efforts are to data cleannign and exploration to answer business questions raised above. And  most data wrangling work is put on "listing.csv". Missing values are interpolated or dropped based on my judgements. histogram, heatmaps, and wordclouds are adopted to better visualize the results.
 
 ## Main findings
 the rent distribution of AirBNB and its trend over time. We found the rent would double itself in “hot” seasons. And more and more 
