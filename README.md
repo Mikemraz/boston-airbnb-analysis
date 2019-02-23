@@ -2,6 +2,12 @@
 This repository manages to get some useful and interesting insights into Boston AirBNB data.  
 data [source](https://www.kaggle.com/airbnb/boston)
 
+## Motivation
+- come up with valued business questions that could be answered by data science skills.
+- Use visualizations to make findings more understandable and cachy,
+- communicate to stakeholders from different backgrounds (blog).
+- I am now living near Boston, I want to know more about this city.
+
 ## Business questions being answered
 1. What is the price distribution of AirBNB homes?
 2. How is price fluctuating over time?
@@ -21,9 +27,14 @@ It has more than 80 columns and tells everything about each AirBNB house. Like r
 It collected every verbal comments tenants made online, with columns {"listing_id","id","date","reviewer_id","erviewer_name","commnets"}.  
 
 ## General analysis process
-As there is no modelling work in this analysi. All efforts are to data cleannign and exploration to answer business questions raised above. And  
+As there is no modelling work in this analysis. All efforts are to data cleannign and exploration to answer business questions raised above. And  
 most data wrangling work is put on "listing.csv". Missing values are interpolated or dropped based on my judgements. histogram, heatmaps, and  
 wordclouds are adopted to better visualize the results.
+
+## Main findings
+the rent distribution of AirBNB and its trend over time. We found the rent would double itself in “hot” seasons. And more and more 
+people became AirBNB users. Big house consisting plenty of rooms are customers’ favorites. Location (transportation), furniture provision, 
+comfortableness are what people desire for.
 
 ## Blog
 If you want to know more about my work. please go to [my blog](https://medium.com/@jlm3448179892009/get-to-understand-airbnb-at-boston-c254a4b50a26)
